@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="GraphLines">
+        <attr name="title_textSize" format="dimension"/>
+        <attr name="ytextSize" format="dimension"/>
+        <attr name="xtextSize" format="dimension"/>
+        <attr name="axis_color" format="color"/>
+        <attr name="axis_height" format="dimension"/>
+        <attr name="line_color" format="color"/>
+        <attr name="line_height" format="dimension"/>
+    </declare-styleable>
+
+
+
+</resources>
